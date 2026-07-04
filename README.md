@@ -2,7 +2,7 @@
 
 ---
 
-**Streamlit App:** [Road Accident Severity Predictor](https://hotel-booking-analysis-and-prediction-hbpea2024.streamlit.app/)
+**Streamlit App:** [Road Accident Severity Predictor](https://uk-road-accident-predictor.streamlit.app/)
 
 ---
 
@@ -11,14 +11,14 @@ This project is an end-to-end data science solution designed to predict whether 
 
 ---
 
-### 📊 Dataset at a Glance
+### Dataset at a Glance
 * **Original Dataset:** UK Road Accident Dataset (2005–2015).
 * **Final Processed Data:** ~74,000 rows & 37 high-impact features.
 * **Target Variable:** `Severe_Accident` (Binary: 0 for Slight Accident, 1 for Serious or Fatal Accident)
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 The following animation illustrates the technical flow from data acquisition via API to model deployment:
 
 ![Project Workflow](workflowdiagram.gif)
