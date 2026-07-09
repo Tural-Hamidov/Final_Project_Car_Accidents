@@ -11,3 +11,4 @@ streamlit
 PyMySQL
 python-dotenv
 joblib
+kagglehub
